@@ -1,0 +1,12 @@
+The S-Interface (previously OTACS) has been built as a modular system in C#. It is a communal software development project, where anybody can contribute modules with specific functionality. These modules are called plug-ins and need to conform to certain programming guidelines that are spelled out in the Plug-in Tutorial. Functionally speaking, the plug-ins are of two major varieties: (a) sensor channels, and (b) algorithm implementations. In its current plug-in library, the S-Interface features three sensor acquisition channels and four algorithms. 
+
+http://cpl.uh.edu/software/s-interface/
+
+SOFTWARE DEPENDENCIES
+
+Windows 10
+VisioForge SDK (https://www.visioforge.com/video-capture-sdk-net2.html)
+R (https://cran.r-project.org/bin/windows/base/)
+eBus SDK (http://www.pleora.com/our-products/ebus-sdk)
+AForge (http://www.aforgenet.com/framework/downloads.html)
+FLIR Camera Controller (http://www.flir.com/cores/display/?id=51880)
