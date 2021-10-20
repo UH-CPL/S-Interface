@@ -10,6 +10,6 @@
 
 
 # Build Software
-Please open otacs/OTACS.sln in Visual Studio
-Click on Build option in the toolbar
-Click Run (below the debug option in the toolbar) once the build is successful
+*Please open otacs/OTACS.sln in Visual Studio
+*Click on Build option in the toolbar
+*Click Run (below the debug option in the toolbar) once the build is successful
